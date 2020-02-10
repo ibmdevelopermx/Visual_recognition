@@ -4,12 +4,13 @@
 Aprende a crear un servicio de visual recognition para clasificar tacos y despliegalo en una app directamente a IBM Cloud!
 
 ## Prework:
-* Cuenta de [IBM Cloud][url-IBMCLOUD]
-* Instalar [CLI de IBM Cloud][url-CLI-IBMCLOUD] 
-* Cuenta en [GitHub][url-github-join]
-* Instalar [CLI de GitHub][url-github-cli] o instalar [GitHub Desktop][url-githubdesktop]
-* Instalar [NodeJS][url-node]
-* Utilizar safari, chrome, firefox, edge
+* Cuenta de [IBM Cloud][url-IBMCLOUD].
+* Instalar [CLI de IBM Cloud][url-CLI-IBMCLOUD].
+* Cuenta en [GitHub][url-github-join].
+* Instalar [CLI de GitHub][url-github-cli] o instalar [GitHub Desktop][url-githubdesktop].
+* Instalar [NodeJS][url-node].
+* Utilizar safari, chrome, firefox, edge.
+* "Fork" y "Clone" a este repositorio. 
 
 ## Cupones para profesores y estudiantes:
 
